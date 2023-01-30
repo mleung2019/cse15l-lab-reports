@@ -1,6 +1,7 @@
-# Week 1 Lab Report - Remote Access and FileSystem
+# Lab Report 1 - Remote Access and FileSystem (Week 1)
 
 ## How to log into a course-specific account on `ieng6`
+
 <br>
 
 ## 1. Installing VScode
