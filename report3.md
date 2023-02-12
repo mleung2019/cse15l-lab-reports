@@ -24,7 +24,7 @@ This command searches for the word `Poland` for each file in `written_2/travel_g
 
 <br>
 
-## 2. - Match Whole Lines - The `-x` Flag
+## 2. Match Whole Lines - The `-x` Flag
 
 *Source: https://www.gnu.org/savannah-checkouts/gnu/grep/manual/grep.html#Matching-Control*
 
