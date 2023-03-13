@@ -31,7 +31,7 @@ run StringServer 3000
 ```
 * The first command is run to compile the necessary files. The `-g` flag is used to provide the debugger information.
 * The second command starts `jdb`.
-* The third command sets the breakpoint to line 21, which is in the Handler class.
+* The third command sets the breakpoint to line 21, which is in the `Handler` class in `StringServer.java`.
 * The fourth command starts the web server on port 3000.
 
 <br>
